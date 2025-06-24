@@ -1,0 +1,3 @@
+/home/huichuan/Desktop/xiaomi/transcoder_finalwork/transcoder-finalwork/build/CMakeFiles/EnhancedTranscoder.dir
+/home/huichuan/Desktop/xiaomi/transcoder_finalwork/transcoder-finalwork/build/CMakeFiles/edit_cache.dir
+/home/huichuan/Desktop/xiaomi/transcoder_finalwork/transcoder-finalwork/build/CMakeFiles/rebuild_cache.dir
